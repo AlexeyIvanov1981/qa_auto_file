@@ -28,7 +28,7 @@ public class FileTest {
     }
 
     @Test
-    @DisplayName("Загрузка файла по абсолютному пути")
+    @DisplayName(" ")
     void uploadFileAbsolutePathTest() {
 
         open("https://the-internet.herokuapp.com/upload");
@@ -41,7 +41,7 @@ public class FileTest {
     }
 
     @Test
-    @DisplayName("Загрузка файла по абсолютному пути")
+    @DisplayName(" ")
     void uploadFileTest() {
 
         open("https://the-internet.herokuapp.com/upload");
